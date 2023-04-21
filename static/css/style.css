@@ -139,7 +139,7 @@ section {
   /* CSS voor kleinere schermen (bijvoorbeeld smartphones) */
   @media (max-width: 768px) {
     .top-nav {
-      font-size: 14px; /* Pas de lettergrootte aan voor kleinere schermen */
+      font-size: 11px; /* Pas de lettergrootte aan voor kleinere schermen */
     }
   }
   
